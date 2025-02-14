@@ -1,3 +1,7 @@
 python-telegram-bot==20.0
 requests
 aiohttp
+python-dotenv
+aiogram
+bs4
+lxml
